@@ -4,7 +4,7 @@ An AI-powered quality filter for your LinkedIn feed. Evaluates every post for ge
 
 This is a personal proof of concept, not a production tool. It works, it's useful, and it will probably break next time LinkedIn changes their DOM.
 
-![Review mode showing scored posts](screenshots/review-mode.png)
+![Review mode showing scored posts](review-mode.png)
 
 ## The Problem
 
